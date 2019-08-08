@@ -1,0 +1,60 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	list-style: none; /* removes bullet lines */
+	text-decoration: none; /* Removes under line */
+}
+
+body {
+	background: orange;
+	text-align: center;
+}
+
+.body-container {
+	width: 80%;
+	background: black;
+	color: white;
+	margin: auto; 
+	font-size: 40px;
+}
+
+h1 {
+	text-align: center;
+}
+
+header, footer {
+	width: 100%;
+	height: 150px;
+	background: cyan;
+}
+
+main {
+	width: 100%;
+	height: 600px;
+	background: green;
+}
+
+nav {
+	width: 20%;
+	height: 100%;
+	background: grey;
+	float: left;
+}
+
+section {
+	width: 55%;
+	height: 100%;
+	background: blue;
+	float: left;
+}
+
+aside {
+	width: 25%;
+	height: 100%;
+	background: grey;
+	float: left;
+}
+
+
+
